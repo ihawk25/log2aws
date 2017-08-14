@@ -1,0 +1,19 @@
+<style>
+div {
+  display: inline-block;
+  width: 125px;
+  height: 100px;
+  margin: 16px;
+  padding: 16px;
+}
+</style>
+<body>
+
+<h2 class="w3-container">Endday</h2>
+<div class="w3-card w3-green"><p>660</p></div>
+<div class="w3-card-2 w3-green"><p>543</p></div>
+<div class="w3-card-4 w3-green"><p>878</p></div>
+<div class="w3-card-8 w3-green"><p>888</p></div>
+<div class="w3-card-12 w3-green"><p>948</p></div>
+<div class="w3-card-16 w3-red"><p>257</p></div>
+<div class="w3-card-24 w3-green"><p>479</p></div>

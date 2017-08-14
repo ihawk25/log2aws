@@ -1,0 +1,53 @@
+Cooper
+CooperScheduler
+CooperCRViewer
+
+At least one backup has not been created in the past 12 hours.
+----------
+/u/AG1/databases/:
+total 104252
+-rw-rw-rw- 1 dealer   dealer    7325696 Apr 13  2012 100704dds_access.mdb
+-rw-rw-rw- 1 dealer   dealer    3616768 Apr 13  2012 Blank_WINSDB.mdb.old
+drwxrwxrwx 2 dealer   dealer       4096 Apr 13  2012 OCR Old Databases
+-rw-rw-rw- 1 dealer   dealer      74752 Apr 13  2012 ReceiptWAccounts.rpt
+-rw-rw-rw- 1 dealer   dealer      57856 Apr 13  2012 ReceiptWAccounts060809.rpt
+-rw-rw-rw- 1 dealer   dealer      57856 Jun  2  2009 ReceiptWAccountsold.rpt
+-rw-r--r-- 1 root     root          113 Jan 12 05:30 Sql-AWS1.txt
+-rw-rw-rw- 1 ddsadmin ddsadmin     2745 Jan 11 05:30 Sql-AWS1.txt.uploaded
+-rw-rw-rw- 1 dealer   dealer    3616768 Apr 13  2012 WINSDB.mdb
+drwxrwxrwx 2 dealer   dealer       4096 Dec 14 21:45 backup
+-rw-rw-rw- 1 dealer   dealer    1048576 Apr 13  2012 cooper.ldf
+-rw-rw-rw- 1 dealer   dealer   40501248 Apr 13  2012 cooper.mdf
+-rw-rw-rw- 1 dealer   dealer   10723328 Apr 13  2012 dds_access.mdb
+drwxrwxrwx 2 dealer   dealer       4096 Apr 13  2012 old databases
+-rw-rw-rw- 1 dealer   dealer      39936 Apr 13  2012 receipt.rpt
+-rw-rw-rw- 1 dealer   dealer      41472 Apr 13  2012 receipt060809.rpt
+-rw-rw-rw- 1 dealer   dealer      41472 Jun  2  2009 receiptold.rpt
+-rw-rw-rw- 1 dealer   dealer    6852608 Jan 11 07:54 receipts.mdb
+-rw-rw-rw- 1 dealer   dealer   12093440 Apr 13  2012 receipts.mdb.UGB
+-rw-rw-rw- 1 dealer   dealer   12902400 Jun  8  2009 receiptsold.mdb
+-rw-rw-rw- 1 dealer   dealer   10389504 Apr 13  2012 sad.mdb
+-rw-r--r-- 1 nfsuser  dealer       2671 Dec 12 11:28 sqlbackup.vbs
+
+/u/AG1/databases/OCR Old Databases:
+total 11828
+-rw-rw-rw- 1 dealer dealer 12093440 Apr 13  2012 1008receipts.mdb
+
+/u/AG1/databases/backup:
+total 80408
+-rwxrwxrwx 1 nfsuser dealer 65358336 Dec 14 21:45 Cooper-20161214.bak
+-rwxrwxrwx 1 nfsuser dealer  1851904 Dec 14 21:45 CooperCRViewer-20161214.bak
+-rwxrwxrwx 1 nfsuser dealer 15026688 Dec 14 21:45 CooperScheduler-20161214.bak
+
+/u/AG1/databases/old databases:
+total 77592
+-rw-rw-rw- 1 dealer dealer  7241728 Apr 13  2012 01232004dds_access.mdb
+-rw-rw-rw- 1 dealer dealer   395264 Apr 13  2012 0624Receipts.mdb
+-rw-rw-rw- 1 dealer dealer  6580224 Apr 13  2012 062502dds_access.mdb
+-rw-rw-rw- 1 dealer dealer  1048576 Apr 13  2012 Cooper.ldf
+-rw-rw-rw- 1 dealer dealer 42598400 Apr 13  2012 Cooper.mdf
+-rw-rw-rw- 1 dealer dealer 12093440 Apr 13  2012 Receipts62402.0ld.mdb
+-rw-rw-rw- 1 dealer dealer   362496 Apr 13  2012 Receiptsmdb
+-rw-rw-rw- 1 dealer dealer  3241984 Apr 13  2012 dds_access.mdb.org
+-rw-rw-rw- 1 dealer dealer  5394432 Apr 13  2012 dds_accessold.mdb
+-rw-rw-rw- 1 dealer dealer   362496 Apr 13  2012 oldreceipts.mdb

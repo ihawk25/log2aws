@@ -1,0 +1,23 @@
+THETRUCKSOURCEScheduler
+TruckSourceCRViewer
+
+At least one backup has not been created in the past 12 hours.
+----------
+/u/AG1/databases/:
+total 24564
+-rw-rw-rw- 1 dealer   dealer      38912 Jan  6  2015 Site1Receipt.rpt
+-rw-rw-rw- 1 dealer   dealer      73216 Jan  6  2015 Site1ReceiptWAccounts.rpt
+-rw-rw-rw- 1 dealer   dealer      38912 Jan  6  2015 Site2Receipt.rpt
+-rw-rw-rw- 1 dealer   dealer      73216 Jan  6  2015 Site2ReceiptWAccounts.rpt
+-rw-rw-rw- 1 dealer   dealer      38912 Jan  6  2015 Site3Receipt.rpt
+-rw-rw-rw- 1 dealer   dealer      73216 Jan  6  2015 Site3ReceiptWAccounts.rpt
+-rw-r--r-- 1 root     root          119 Jan 12 05:30 Sql-AWS1.txt
+-rw-rw-rw- 1 ddsadmin ddsadmin     1103 Jan 11 05:30 Sql-AWS1.txt.uploaded
+drwxrwxrwx 2 dealer   dealer       4096 Jan 10 09:44 backup
+-rw-rw-rw- 1 dealer   dealer     704512 Feb 16  2015 good-receipts.mdb
+-rw-rw-rw- 1 dealer   dealer   19546112 Oct 29 06:19 receipts.mdb
+-rw-rw-rw- 1 dealer   dealer    8826880 Jul 27  2015 receipts2.mdb
+-rw-rw-rw- 1 dealer   dealer       2446 Dec 28  2015 sqlbackup.vbs
+
+/u/AG1/databases/backup:
+total 0

@@ -1,0 +1,17 @@
+AlScheppers
+AlScheppersCRViewer
+AlScheppersScheduler
+
+At least one backup has not been created in the past 12 hours.
+----------
+/u/AG1/databases/:
+total 70776
+-rwxrwxrwx 1 nfsuser  dealer   38291968 Jan 10 23:14 AlScheppers-20170110.bak
+-rwxrwxrwx 1 nfsuser  dealer    1720832 Jan 10 23:14 AlScheppersCRViewer-20170110.bak
+-rwxrwxrwx 1 nfsuser  dealer   15026688 Jan 10 23:14 AlScheppersScheduler-20170110.bak
+-rw-rw-rw- 1 dealer   dealer      73216 Dec 29  2014 ReceiptWAccounts.rpt
+-rw-r--r-- 1 root     root          128 Jan 12 05:30 Sql-AWS1.txt
+-rw-rw-rw- 1 ddsadmin ddsadmin       92 Jan 11 05:30 Sql-AWS1.txt.uploaded
+-rw-rw-rw- 1 dealer   dealer      38912 Dec 29  2014 receipt.rpt
+-rw-rw-rw- 1 dealer   dealer   18489344 Jan 11 15:59 receipts.mdb
+-rw-rw-rw- 1 dealer   dealer       2567 Nov 20  2014 sqlbackup.vbs

@@ -1,0 +1,41 @@
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>DDS log2aws</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+    <meta name="theme-color" content="#00b200">
+    <meta http-equiv="refresh" content="60">
+    <link rel="icon" sizes="192x192" href="templates/icons/ddsicon-web.png">
+    <link rel="apple-touch-icon" href="templates/icons/ddsicon-web.png">
+    <meta charset="utf-8">
+    <style>
+      html, body, #map {
+        margin: 0;
+        padding: 0;
+        height: 100%;
+      }
+    </style>
+    <script src="https://maps.googleapis.com/maps/api/js"></script>
+    <script async defer src="//maps.googleapis.com/maps/api/js?key=AIzaSyDzDBhxCpSzEfCtvBD86-4It-Qe-DOcrQM&callback=initMap" type="text/javascript"></script>
+    <script>
+      var map;
+      function initialize() {
+        map = new google.maps.Map(document.getElementById('map'), {
+          zoom: 4,
+          center: new google.maps.LatLng(41.195227, -96.054252),
+          mapTypeId: google.maps.MapTypeId.ROADMAP,
+        });
+
+	var icons = {
+		green: {
+			icon: 'templates/icons/green.png'
+		},
+		red: {
+			icon: 'templates/icons/red.png'
+		},
+		yellow: {
+			icon: 'templates/icons/yellow.png'
+		}
+	};
+

@@ -1,0 +1,38 @@
+	var data = [];
+	data[0] = google.visualization.arrayToDataTable(acudata);
+	data[1] = google.visualization.arrayToDataTable(vbdata);
+
+	var options = {
+		legend: { position: 'none' },
+		hAxis: { title: '# of Users' },
+		vAxis: { title: '# of Dealerships in range' },
+		colors: ['339933'],
+		histogram: { bucketSize: 5 }
+	};
+	
+	var current = 0;
+	
+	var chart = new google.visualization.Histogram(document.getElementById('chart_div'));
+	var button = document.getElementById('b1');
+	function drawChart() {
+		button.disabled = true;
+		google.visualization.events.addListener(chart, 'ready',
+			function() {
+				button.disabled = false;
+				button.value = 'Switch to ' + (current ? 'VB' : 'Advantage') + ' users';
+			});
+		options['title'] = (current ? 'VB' : 'Advantage') + ' Active Users';
+		chart.draw(data[current], options);
+	}
+	drawChart();
+	
+	button.onclick = function() {
+		current = 1 - current;
+		drawChart();
+	}
+}
+
+google.charts.setOnLoadCallback(doDash)
+
+</script>
+

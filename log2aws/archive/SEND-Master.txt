@@ -1,0 +1,474 @@
+
+
+SEND Scripts for 303:
+/u/AGO/SEND.AuthenticomSalesService
+/u/AGO/SEND.DMIConsumerConnection
+/u/AGO/SEND.D2dlinkftp
+/u/AGO/SEND.SiriusXMSalesServiceInventory
+/u/AGO/SEND.Autotraderftp
+
+
+SEND Scripts for 304:
+/u/AGO/SEND.D2dlinkftp
+/u/AGO/SEND.DMIConsumerConnection
+
+
+SEND Scripts for 307:
+/u/AGO/SEND.D2dlinkftp
+/u/AGO/SEND.DMIConsumerConnection
+/u/AGO/SEND.DMISiriusSalesService
+/u/AGO/SEND.Vinsolftp
+/u/AGO/SEND.DealerPortalftp
+
+
+SEND Scripts for 310:
+/u/AGO/SEND.D2dlinkftp
+/u/AGO/SEND.DealerPortalftp
+/u/AGO/SEND.Homenetftp
+/u/AGO/SEND.Authenticom_FordDirectftp
+/u/AGO/SEND.SiriusXMftp
+/u/AGO/SEND.DMIConsumerConnection
+
+
+SEND Scripts for 312:
+/u/AGO/SEND.DealerPortalftp
+/u/AGO/SEND.D2dlinkftp
+/u/AGO/SEND.Authenticomftp
+
+
+SEND Scripts for 313:
+/u/AGO/SEND.DealerPortalftp
+/u/AGO/SEND.D2dlinkftp
+/u/AGO/SEND.SiriusXMftp
+/u/AGO/SEND.Eleadsftp
+/u/AGO/SEND.DMITrueCarSales
+/u/AGO/SEND.DMIConsumerConnection
+
+
+SEND Scripts for 316:
+/u/AGO/SEND.DmiAIMftp
+/u/AGO/SEND.DealerPortalftp
+/u/AGO/SEND.Poweroneftp
+/u/AGO/SEND.D2dlinkftp
+/u/AGO/SEND.D2dlinkftp
+/u/AGO/SEND.SiriusXMSalesServiceftp
+/u/AGO/SEND.AuthenticomSalesService
+/u/AGO/SEND.DMIConsumerConnection
+/u/AGO/SEND.AuthDAS
+/u/AGO/SEND.Autotraderftp
+
+
+SEND Scripts for 319:
+/u/AGO/SEND.D2dlinkftp
+/u/AGO/SEND.DealerPortalftp
+/u/AGO/SEND.Authenticom.FordDirectftp
+/u/AGO/SEND.KCRGftp
+
+
+
+SEND Scripts for 339:
+/u/AGO/SEND.Eleadsftp
+/u/AGO/SEND.DealerPortalftp
+/u/AGO/SEND.D2dlinkftp
+/u/AGO/SEND.DMIConsumerConnection
+/u/AGO/SEND.AuthFordDirectSalesService
+
+
+SEND Scripts for 346:
+/u/AGO/SEND.Partseyeftp
+
+
+SEND Scripts for 354:
+/u/AGO/SEND.Eleadsftp
+/u/AGO/SEND.Homenetftp
+/u/AGO/SEND.Autotraderftp
+/u/AGO/SEND.DealerPortalftp
+/u/AGO/SEND.D2dlinkftp
+/u/AGO/SEND.DMIConsumerConnection
+/u/AGO/SEND.DealerSpecialtiesInv
+
+
+SEND Scripts for 376:
+/u/AGO/SEND.DealerPortalftp
+/u/AGO/SEND.D2dlinkftp
+/u/AGO/SEND.DMIConsumerConnection
+
+
+SEND Scripts for 386:
+/u/AGO/SEND.D2dlinkftp
+/u/AGO/SEND.D2dlinkftp2
+/u/AGO/SEND.DMIConsumerConnectionSleepyEye
+/u/AGO/SEND.AuthReputation
+/u/AGO/SEND.vAuto
+
+
+SEND Scripts for 502:
+
+
+SEND Scripts for 516:
+/u/AGO/SEND.D2dlinkftp
+/u/AGO/SEND.SiriusXMftp
+/u/AGO/SEND.vAutoftp
+/u/AGO/SEND.DMIConsumerConnection
+/u/AGO/SEND.DealerPortalftp
+
+
+SEND Scripts for 517:
+/u/AGO/SEND.Partseyeftp
+/u/AGO/SEND.Partseyeftp2
+/u/AGO/SEND.Partseyeftp4
+
+
+SEND Scripts for 524:
+/u/AGO/SEND.D2dlinkftp
+/u/AGO/SEND.DealerPortalftp
+/u/AGO/SEND.DealerSpecialties
+/u/AGO/SEND.Eleadsftp
+/u/AGO/SEND.SiriusXMSalesService
+
+
+SEND Scripts for 540:
+/u/AGO/SEND.Moparftp
+/u/AGO/SEND.Partsvoiceftp
+/u/AGO/SEND.Integralinkftp
+/u/AGO/SEND.D2dlinkftp
+
+
+SEND Scripts for 546:
+/u/AGO/SEND.D2dlinkftp
+/u/AGO/SEND.Authenticom.FordDirectftp
+/u/AGO/SEND.Authenticomftp
+/u/AGO/SEND.DMWftp
+/u/AGO/SEND.1microftp
+/u/AGO/SEND.DMIIntegralinkftp
+/u/AGO/SEND.Cars.com
+/u/AGO/SEND.Vinsolftp
+/u/AGO/SEND.AuthCreditAcceptance
+/u/AGO/SEND.DealerDownloadsSalesService
+/u/AGO/SEND.eLeads
+
+
+SEND Scripts for 550:
+/u/AGO/SEND.Autouplink
+
+
+SEND Scripts for 561:
+/u/AGO/SEND.D2dlinkftp
+
+
+SEND Scripts for 569:
+/u/AGO/SEND.DealerPortalftp
+/u/AGO/SEND.GMAspenftp
+/u/AGO/SEND.DEALERSLINKINV
+/u/AGO/SEND.DMIConsumerConnection
+
+
+SEND Scripts for 570:
+/u/AGO/SEND.D2dlinkftp
+/u/AGO/SEND.CreditAcceptance
+/u/AGO/SEND.DealerSpecialtiesInv
+/u/AGO/SEND.DMIConsumerConnection
+
+
+SEND Scripts for 573:
+
+
+SEND Scripts for 578:
+/u/AGO/SEND.AutoAuctMTftp
+/u/AGO/SEND.CreditAcceptftp
+/u/AGO/SEND.DealerPortalftp
+/u/AGO/SEND.D2dlinkftp
+/u/AGO/SEND.SiriusXMftp
+/u/AGO/SEND.HomenetClickMotiveftp
+/u/AGO/SEND.DMIConsumerConnection
+/u/AGO/SEND.DealerSocketSalesService
+/u/AGO/SEND.AuthReputation
+
+
+SEND Scripts for 581:
+/u/AGO/SEND.D2dlinkftp
+/u/AGO/SEND.CreditAcceptanceftp
+/u/AGO/SEND.Autotraderftp
+/u/AGO/SEND.DealerPortalftp
+/u/AGO/SEND.Homenetftp
+/u/AGO/SEND.SiriusXMftp
+/u/AGO/SEND.DCSftp
+/u/AGO/SEND.Authenticomftp
+/u/AGO/SEND.DealerSocketftp
+/u/AGO/SEND.DMISiriusXMServiceLane
+/u/AGO/SEND.DMIConsumerConnection
+/u/AGO/SEND.vAuto
+/u/AGO/SEND.DMIAutoCheck
+
+
+SEND Scripts for 586:
+/u/AGO/SEND.DIA
+/u/AGO/SEND.D2dlinkftp
+
+
+SEND Scripts for 593:
+
+
+SEND Scripts for 604:
+
+
+SEND Scripts for 607:
+/u/AGO/SEND.D2dlinkftp
+/u/AGO/SEND.DIA
+
+
+SEND Scripts for 625:
+
+
+SEND Scripts for 629:
+/u/AGO/SEND.DMiChryftp
+/u/AGO/SEND.chry
+/u/AGO/SEND.Autotraderftp
+/u/AGO/SEND.Integralinkftp
+
+
+SEND Scripts for 630:
+/u/AGO/SEND.D2dlinkftp
+/u/AGO/SEND.DMWftp
+/u/AGO/SEND.chry
+/u/AGO/SEND.HomenetIOL
+/u/AGO/SEND.DMIConsumerConnection
+/u/AGO/SEND.DMIChryslerMoparSite2
+/u/AGO/SEND.SiriusXMSalesService
+/u/AGO/SEND.SiriusXMInventory
+/u/AGO/SEND.SiriusXMSlsSvcInvSite2
+/u/AGO/SEND.AuthCredAccept
+
+
+SEND Scripts for 635:
+/u/AGO/SEND.DealerCarSearch
+
+
+SEND Scripts for 636:
+/u/AGO/SEND.D2dlinkftp
+/u/AGO/SEND.DealerPortalftp
+
+
+SEND Scripts for 638:
+
+
+SEND Scripts for 639:
+/u/AGO/SEND.D2dlinkftp
+/u/AGO/SEND.vauto
+/u/AGO/SEND.DMICars.com
+/u/AGO/SEND.SiriusXMInvSales
+
+
+SEND Scripts for 640:
+/u/AGO/SEND.D2dlinkftp
+/u/AGO/SEND.SiriusXMftp
+/u/AGO/SEND.DMIinvftp
+/u/AGO/SEND.DMIConsumerConnection
+
+
+SEND Scripts for 645:
+/u/AGO/SEND.DIA
+/u/AGO/SEND.D2dlinkftp
+
+
+SEND Scripts for 649:
+/u/AGO/SEND.CarsForSale
+/u/AGO/SEND.SiriusXMInventory
+/u/AGO/SEND.SiriusXMSalesService
+/u/AGO/SEND.DMIConsumerConnection
+/u/AGO/SEND.HomenetInv
+/u/AGO/SEND.AuthFordDirectSalesService
+/u/AGO/SEND.DMIAutoCheck
+/u/AGO/SEND.D2dlinkftp
+
+
+SEND Scripts for 652:
+/u/AGO/SEND.D2dlinkftp
+/u/AGO/SEND.HomenetInv
+/u/AGO/SEND.SiriusXMSales
+/u/AGO/SEND.DMIConsumerConnection
+/u/AGO/SEND.D2dlinkftp
+
+
+SEND Scripts for 653:
+/u/AGO/SEND.Partseyeftp
+/u/AGO/SEND.HinoParts
+
+
+SEND Scripts for 654:
+/u/AGO/SEND.ChryslerMopar
+/u/AGO/SEND.chry
+/u/AGO/SEND.DMWftp
+/u/AGO/SEND.carfax
+/u/AGO/SEND.AutoConX
+/u/AGO/SEND.SiriusXMftp
+
+
+SEND Scripts for 657:
+/u/AGO/SEND.DealerFX_Sales_Service
+/u/AGO/SEND.ChryslerMopar
+/u/AGO/SEND.Chrysler5Star
+/u/AGO/SEND.chry
+/u/AGO/SEND.SiriusXM
+
+
+SEND Scripts for 658:
+
+
+SEND Scripts for 659:
+
+
+SEND Scripts for 660:
+
+
+SEND Scripts for 814:
+/u/AGO/SEND.DIA
+/u/AGO/SEND.D2dlinkftp
+
+
+SEND Scripts for 820:
+/u/AGO/SEND.D2dlinkftp
+/u/AGO/SEND.DIA
+
+
+SEND Scripts for 826:
+/u/AGO/SEND.CaseAmaxftp
+
+
+SEND Scripts for 831:
+
+
+SEND Scripts for 837:
+
+
+SEND Scripts for 850:
+
+
+SEND Scripts for 858:
+
+
+SEND Scripts for 863:
+
+
+SEND Scripts for 865:
+
+
+SEND Scripts for 874:
+
+
+SEND Scripts for 888:
+/u/AGO/SEND.D2dlinkftp
+/u/AGO/SEND.DIA
+
+
+SEND Scripts for 902:
+/u/AGO/SEND.Integralinkftp
+/u/AGO/SEND.DMIConsumerConnection
+/u/AGO/SEND.DealerPortalftp
+/u/AGO/SEND.chry
+/u/AGO/SEND.Carbaseftp
+/u/AGO/SEND.Chrysler5Star
+
+
+SEND Scripts for 903:
+/u/AGO/SEND.Autotraderftp
+/u/AGO/SEND.chry
+/u/AGO/SEND.THOnlineftp
+/u/AGO/SEND.ChryInvftp
+/u/AGO/SEND.Moparftp
+/u/AGO/SEND.CarsForSaleftp
+/u/AGO/SEND.Townnewsftp
+/u/AGO/SEND.Integralinkftp
+
+
+SEND Scripts for 905:
+/u/AGO/SEND.D2dlinkftp
+/u/AGO/SEND.DIA
+
+
+SEND Scripts for 910:
+/u/AGO/SEND.DIA
+/u/AGO/SEND.D2dlinkftp
+/u/AGO/SEND.D2dlinkftp2
+/u/AGO/SEND.Partseyeftp
+
+
+SEND Scripts for 919:
+/u/AGO/SEND.DIA
+
+
+SEND Scripts for 926:
+/u/AGO/SEND.DIA
+/u/AGO/SEND.D2dlinkftp
+
+
+SEND Scripts for 928:
+/u/AGO/SEND.D2dlinkftp
+/u/AGO/SEND.Partseyeftp
+/u/AGO/SEND.D2dlink_isuzuftp
+/u/AGO/SEND.DIA
+
+
+SEND Scripts for 933:
+Batch
+/u/AGO/SEND.Partseyeftp
+
+
+SEND Scripts for 934:
+/u/AGO/SEND.DIA
+/u/AGO/SEND.D2dlinkftp
+
+
+SEND Scripts for 936:
+/u/AGO/SEND.D2dlinkftp
+/u/AGO/SEND.D2dlinkftp2
+/u/AGO/SEND.DIA
+/u/DCNQ/SEND.wrty
+/u/DCNQ/SEND.wrty.site2
+
+
+SEND Scripts for 937:
+/u/AGO/SEND.D2dlinkftp
+/u/AGO/SEND.DIA
+/u/AGO/SEND.Partseyeftp
+
+
+SEND Scripts for 938:
+/u/AGO/SEND.D2dlinkftp
+/u/AGO/SEND.DIA
+
+
+SEND Scripts for 939:
+/u/AGO/SEND.D2DLink
+
+
+SEND Scripts for 948:
+
+
+SEND Scripts for 950:
+/u/AGO/SEND.DIA
+/u/AGO/SEND.D2dlinkftp
+
+
+SEND Scripts for 970:
+/u/AGO/SEND.CaseAmaxftp
+
+
+SEND Scripts for 973:
+/u/AGO/SEND.DMIConsumerConnection
+/u/AGO/SEND.D2dlinkftp
+/u/AGO/SEND.HomenetInv
+
+
+SEND Scripts for 978:
+
+
+SEND Scripts for 985:
+/u/AGO/SEND.SiriusXMftp
+/u/AGO/SEND.Worldnowftp
+/u/AGO/SEND.Autotraderftp
+/u/AGO/SEND.DealerPortalftp
+/u/AGO/SEND.D2dlinkftp
+/u/AGO/SEND.Cars.comftp
+/u/AGO/SEND.DealerCarSearchInv
+/u/AGO/SEND.HomenetInv
